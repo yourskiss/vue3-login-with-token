@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourskiss.github.io/vue3-login-with-token-and-cookies",
+  "homepage": "https://yourskiss.github.io/vue3-login-with-token",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
